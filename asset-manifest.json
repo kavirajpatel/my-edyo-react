@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-edyo-react/static/css/main.e650c5da.css",
+    "main.js": "/my-edyo-react/static/js/main.97ffc783.js",
+    "index.html": "/my-edyo-react/index.html",
+    "main.e650c5da.css.map": "/my-edyo-react/static/css/main.e650c5da.css.map",
+    "main.97ffc783.js.map": "/my-edyo-react/static/js/main.97ffc783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e650c5da.css",
+    "static/js/main.97ffc783.js"
+  ]
+}
